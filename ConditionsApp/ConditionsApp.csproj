@@ -51,7 +51,6 @@
     <Compile Include="Conditions\ExportStatusCondition.cs" />
     <Compile Include="Conditions\ICondition.cs" />
     <Compile Include="Messages\IMessage.cs" />
-    <Compile Include="Extensions\ReflectionExtension.cs" />
     <Compile Include="Rules\IRule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RuleManager.cs" />
