@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ConditionsApp",
+    "\\ConditionsApp.Contracts",
+    "\\ConditionsApp.Test",
+    "\\ConditionsApp\\Actions",
+    "\\ConditionsApp\\Conditions",
+    "\\ConditionsApp\\Rules"
+  ],
+  "SelectedNode": "\\ConditionsApp\\Conditions\\Condition.cs",
+  "PreviewInSolutionExplorer": false
+}

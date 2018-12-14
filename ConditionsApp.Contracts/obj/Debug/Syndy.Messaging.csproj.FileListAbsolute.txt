@@ -1,0 +1,6 @@
+D:\ConditionsProject\ConditionsApp\ConditionsApp.Contracts\bin\Debug\ConditionsApp.Contracts.dll
+D:\ConditionsProject\ConditionsApp\ConditionsApp.Contracts\bin\Debug\ConditionsApp.Contracts.pdb
+D:\ConditionsProject\ConditionsApp\ConditionsApp.Contracts\obj\Debug\Syndy.Messaging.csproj.CoreCompileInputs.cache
+D:\ConditionsProject\ConditionsApp\ConditionsApp.Contracts\obj\Debug\ConditionsApp.Contracts.dll
+D:\ConditionsProject\ConditionsApp\ConditionsApp.Contracts\obj\Debug\ConditionsApp.Contracts.pdb
+D:\ConditionsProject\ConditionsApp\ConditionsApp.Contracts\obj\Debug\Syndy.Messaging.csprojAssemblyReference.cache

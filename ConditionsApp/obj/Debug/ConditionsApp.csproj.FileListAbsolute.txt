@@ -1,0 +1,12 @@
+D:\ConditionsProject\ConditionsApp\ConditionsApp\bin\Debug\ConditionsApp.dll
+D:\ConditionsProject\ConditionsApp\ConditionsApp\bin\Debug\ConditionsApp.pdb
+D:\ConditionsProject\ConditionsApp\ConditionsApp\bin\Debug\ConditionsApp.Contracts.dll
+D:\ConditionsProject\ConditionsApp\ConditionsApp\bin\Debug\Newtonsoft.Json.dll
+D:\ConditionsProject\ConditionsApp\ConditionsApp\bin\Debug\ConditionsApp.Contracts.pdb
+D:\ConditionsProject\ConditionsApp\ConditionsApp\bin\Debug\Newtonsoft.Json.pdb
+D:\ConditionsProject\ConditionsApp\ConditionsApp\bin\Debug\Newtonsoft.Json.xml
+D:\ConditionsProject\ConditionsApp\ConditionsApp\obj\Debug\ConditionsApp.csprojAssemblyReference.cache
+D:\ConditionsProject\ConditionsApp\ConditionsApp\obj\Debug\ConditionsApp.csproj.CoreCompileInputs.cache
+D:\ConditionsProject\ConditionsApp\ConditionsApp\obj\Debug\ConditionsApp.csproj.CopyComplete
+D:\ConditionsProject\ConditionsApp\ConditionsApp\obj\Debug\ConditionsApp.dll
+D:\ConditionsProject\ConditionsApp\ConditionsApp\obj\Debug\ConditionsApp.pdb
